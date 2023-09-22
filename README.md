@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Husam Asad</h1>
+<h1 align="center">Hi, I'm Husam Asad</h1>
 <h3 align="center">Empowering the Digital Landscape: Backend Developer from Jordan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maybehusam&label=Profile%20views&color=0e75b6&style=flat" alt="maybehusam" /> </p>
