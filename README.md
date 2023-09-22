@@ -14,7 +14,6 @@
 <a href="https://twitter.com/nothusam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nothusam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/husam asad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husam asad" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nothusam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nothusam" height="30" width="40" /></a>
-<a href="https://discord.gg/nothusam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nothusam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
