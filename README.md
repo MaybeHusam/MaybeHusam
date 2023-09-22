@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **some level 2 problem solving concepts, front-end.**
 
-- ⚡ Fun fact **valo player**
+- ⚡ Fun fact **am a valo player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
